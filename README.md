@@ -1,2 +1,2 @@
 # svg-examples
-learning svg images
+learning_svg_images
