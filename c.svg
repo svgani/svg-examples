@@ -1,0 +1,22 @@
+<svg width="100" height="90" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<path d="M1 1 h99 v89 h-99 z" fill="#191970" stroke="#CA278C" stroke-width=".8"/>
+<path d="M1 5 h99" stroke="#EEE8AA" stroke-width="2"/>
+<path d="M1 9 h99" stroke="#EEE8AA" stroke-width="1"/>
+<path d="M1 82 h99" stroke="#EEE8AA" stroke-width="1"/>
+<path d="M1 86 h99" stroke="#EEE8AA" stroke-width="2"/>
+
+<path id="patha" d="M6 35 Q35 30 30 40 Q70 40 60 50 Q99 50 85 60" stroke="#EEE8AA" fill="transparent" stroke-width=".7"/>
+<text font-size="7" fill="red">
+<textPath xlink:href="#patha">
+TEXT ON A PATH
+</textPath>
+</text>
+<path id="pathb" d="M6 35 Q35 80 85 60" stroke="#EEE8AA" fill="transparent" stroke-width=".7"/>
+<text font-size="7" fill="red">
+<textPath xlink:href="#pathb">
+.  TEXT  . ON A PATH
+</textPath>
+</text>
+<path id="pathc" d="M6 35 Q10 100 85 60" stroke="#EEE8AA" fill="transparent" stroke-width=".7"/>
+</svg>

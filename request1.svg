@@ -1,0 +1,10 @@
+<svg width="20" height="20" xmlns="http://www.w3.org/2000/svg">
+
+<path d="M2 2 h16 v16 h-16 Z" stroke-width="0.5" stroke="transparent" fill="white"/>
+
+<path d="M2 14 H8 V18 H2 z M18 14 h-6 V18 h+6 z " stroke-width="0.5" stroke="transparent" fill="white"/>
+<path d="M4 4 h+12 v+10 h-12 v-10 z " stroke-width="0.5" stroke="transparent" fill="#007088"/>
+<circle cx="10" cy="14.75" r="1.8" stroke="#007088" stroke-width="1" fill="#007088"/>
+<path d="M11.5 6 h-3 v+3 h+3 v-3 z " stroke-width="0.5" stroke="white" fill="white"/>
+<path d="M10 9 v+3 L7.5 9 z M10 9 v+3 L12.5 9 z" stroke-width="0.5" stroke="transparent" fill="white"/>
+</svg>

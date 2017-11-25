@@ -1,0 +1,15 @@
+<svg width="120cm" height="36cm" viewBox="0 0 1000 300" version="1.1"
+     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <path id="MyPath"
+          d="M6 30 Q40 20 30 40" />
+  </defs>
+  <desc>Example toap01 - simple text on a path</desc>
+
+  <use xlink:href="#MyPath" fill="none" stroke="red"  />
+  <text font-family="Verdana" font-size="42.5" fill="blue" >
+    <textPath xlink:href="#MyPath">
+      We go up, then we go down, then up again
+    </textPath>
+  </text>
+</svg>
