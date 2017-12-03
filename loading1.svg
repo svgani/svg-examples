@@ -1,0 +1,52 @@
+<svg width="60" height="20" xmlns="http://www.w3.org/2000/svg">
+<circle cx="10" cy="10" r="-5" fill="#D54E12">
+		 <animate attributeName="r" attributeType="XML"
+         to="5"
+         begin="0s" 
+         dur='1s'
+         repeatCount="indefinite"
+            />
+</circle>
+<circle cx="10" cy="10" r="5" fill="#D54E12">
+         <animate attributeName="r" attributeType="XML"
+         to="-3"
+         begin="0s" 
+         dur='1s'
+         repeatCount="indefinite"
+            />
+</circle>
+
+<circle cx="30" cy="10" r="-5" fill="#D54E12">
+		 <animate attributeName="r" attributeType="XML"
+         to="5"
+         begin=".5s" 
+         dur='1s'
+         repeatCount="indefinite"
+            />
+</circle>
+<circle cx="30" cy="10" r="5" fill="#D54E12">
+         <animate attributeName="r" attributeType="XML"
+         to="-3"
+         begin=".5s" 
+         dur='1s'
+         repeatCount="indefinite"
+            />
+</circle>
+
+<circle cx="50" cy="10" r="-5" fill="#D54E12">
+		 <animate attributeName="r" attributeType="XML"
+         to="5"
+         begin="0s" 
+         dur='1s'
+         repeatCount="indefinite"
+            />
+</circle>
+<circle cx="50" cy="10" r="5" fill="#D54E12">
+         <animate attributeName="r" attributeType="XML"
+         to="-3"
+         begin="0s" 
+         dur='1s'
+         repeatCount="indefinite"
+            />
+</circle>
+</svg>

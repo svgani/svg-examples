@@ -1,0 +1,11 @@
+<svg width="20" height="20" xmlns="http://www.w3.org/2000/svg">
+<circle cx="10" cy="10" r="9" fill="none" stroke="black" stroke-width=".6" opacity="1"  stroke-dasharray='9 9' stroke-dashoffset='010'>
+			  <animateTransform attributeName="transform"
+                      type="rotate"
+                      from="360 10 10" to="0 10 10"
+                      begin="0s" dur="1s"
+                      repeatCount="indefinite"
+                      additive="sum"
+            />
+</circle>
+</svg>
